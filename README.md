@@ -1,6 +1,8 @@
 # CrecheSpot
 
 Welcome to CrecheSpot! 
+![logo](https://github.com/user-attachments/assets/f83ab429-db16-4f35-9f6c-81197580c789)
+
 
 CrecheSpot is a convenient and user-friendly platform designed to help parents find the perfect creche for their little ones. Whether you're looking for childcare near your home or workplace, CrecheSpot simplifies the process by providing detailed information about creches in your area.
 
