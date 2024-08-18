@@ -1,50 +1,25 @@
-# Welcome to your Expo app 👋
+# CrecheSpot
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Welcome to CrecheSpot! 
 
-## Get started
+CrecheSpot is a convenient and user-friendly platform designed to help parents find the perfect creche for their little ones. Whether you're looking for childcare near your home or workplace, CrecheSpot simplifies the process by providing detailed information about creches in your area.
 
-1. Install dependencies
+## Features
 
-   ```bash
-   npm install
-   ```
+- **Location-Based Search**: Easily find creches near your location or any specified area.
+- **Detailed Creche Profiles**: Get comprehensive information about each creche, including services offered, facilities, staff-to-child ratios, and more.
+- **Filtering Options**: Narrow down your search based on criteria such as age groups served, operating hours, curriculum, and accreditation status.
+- **Booking and Scheduling**: Schedule visits and book slots for your child directly through the app.
+- **Reviews and Ratings**: Read reviews from other parents and leave your feedback to help others make informed decisions.
+- **Safety and Compliance Information**: Access information about licensing, safety measures, and staff qualifications for each creche.
+- **Community Features**: Connect with other parents, share tips, and arrange playdates through the app.
 
-2. Start the app
+## Getting Started
 
-   ```bash
-    npx expo start
-   ```
+To get started with CrecheSpot, simply clone this repository to your local machine and follow the installation instructions below.
 
-In the output, you'll find options to open the app in a
+### Prerequisites
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- Node.js and npm installed on your machine
+- MongoDB installed and running locally or accessible via a MongoDB Atlas instance
+- Google Maps API key (for location services)
